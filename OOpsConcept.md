@@ -1,5 +1,5 @@
 Class and Object in dart
-CLass : Class is the blue or the template;
+CLass : Class is the blue  print or the template;
 eg : A car blue print conatians
      colur. 
      engine.
